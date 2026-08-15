@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "version": "208",
+  "downloadUrl": "https://github.com/amine68200/black-leg-launcher/releases/download/v208/black-leg-titan-v208.zip",
+  "sha256": "0270f8eca867406b5dde1334aad4a49419df73f7b5048de896fcf31b589a3711",
+  "sizeBytes": 108167548,
+  "archiveRoot": "Game",
+  "entryPoint": "index.html",
+  "minimumLauncherVersion": "1.0.0",
+  "notes": [
+    "Black Leg Titan V208",
+    "Installation et mise à jour automatique"
+  ]
+}
